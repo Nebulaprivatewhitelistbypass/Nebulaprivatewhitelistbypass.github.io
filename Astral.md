@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## ASTRAL
 
-You can use the [editor on GitHub](https://github.com/Mastadawn/Mastadawn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Astral is a semi-private script for roblox bedwars.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+Astral is a script for roblox and is made for the game "Bedwars"
 
-```markdown
-Syntax highlighted code block
+This script is developed as a hobby do not expect it to be perfect.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Please do not ask us to open applications, they will be opened when we feel we can take more members.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contact
 
-### Jekyll Themes
+```
+You can contact the developers via the [Discord](https://discord.gg/Qs2UAEKFRS)
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mastadawn/Mastadawn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### APPLYING
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+Applications are opened for a certain number of people at a time and a certain number of applications will be accepted, the best of the amount we will be accepting until closed.
+```
