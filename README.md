@@ -16,7 +16,7 @@ Please do not ask us to open applications, they will be opened when we feel we c
 ### Contact
 
 ```
-You can contact the developers via the [Discord](https://discord.gg/Qs2UAEKFRS)
+You can contact the developers via the https://discord.gg/Qs2UAEKFRS
 ```
 
 ### APPLYING
