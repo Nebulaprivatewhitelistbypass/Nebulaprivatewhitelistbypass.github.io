@@ -1,29 +1,23 @@
-## ASTRAL
+## Mastadawn.wtf
 
-Astral is a semi-private script for roblox bedwars.
+Hey im Mastadawn and I like programming
 
 
-### Information
+### Projects
 
 ```
-Astral is a script for roblox and is made for the game "Bedwars"
-
-This script is developed as a hobby do not expect it to be perfect.
-
-Please do not ask us to open applications,
-they will be opened when we feel we can take more members.
+Currently I am making a script for bedwars called astral, if you feel like it try it out.
+Discord: https://discord.gg/SS79C8xEDA
 ```
 
 ### Contact
 
 ```
-You can contact the developers via the Discord server: https://discord.gg/Qs2UAEKFRS
+You can contact me via my discord: Mastadawn#4135
 ```
 
-### APPLYING
+### Extra
 
 ```
-Applications are opened for a certain number of people at a time and a
-certain number of applications will be accepted,
-the best of the amount we will be accepting until closed.
+I will try to release some cool stuff to the public here, maybe some just funny universal scripts I dont know.
 ```
