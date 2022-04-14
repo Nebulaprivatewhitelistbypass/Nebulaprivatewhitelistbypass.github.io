@@ -7,7 +7,7 @@ Hey im Mastadawn and I like programming
 
 ```
 Currently I am making a script for bedwars called astral, if you feel like it try it out.
-Discord: discord.gg/CJC77Utj3A
+Discord: discord.gg/mastadawn
 ```
 
 ### Contact
