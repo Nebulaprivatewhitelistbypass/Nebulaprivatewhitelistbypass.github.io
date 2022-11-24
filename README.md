@@ -6,14 +6,15 @@ Hey im Mastadawn and I like programming
 ### Projects
 
 ```
-Currently I am making a script for bedwars called astral, if you feel like it try it out.
-Discord: discord.gg/mastadawn
+Prism:
+Prism is a script hub that supports roblox bedwars, bloxburg and more games soon!
+Status: not released yet.
 ```
 
 ### Contact
 
 ```
-You can contact me via my discord: Mastadawn#4135
+You can contact me via my discord: mastadawn#4135
 ```
 
 ### Extra
