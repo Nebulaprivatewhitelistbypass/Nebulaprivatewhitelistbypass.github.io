@@ -8,7 +8,8 @@ Hey im Mastadawn and I like programming
 ```
 Prism:
 Prism is a script hub that supports roblox bedwars, bloxburg and more games soon!
-Status: not released yet.
+Apply here!
+https://discord.gg/gqFpE9mXCP
 ```
 
 ### Contact
