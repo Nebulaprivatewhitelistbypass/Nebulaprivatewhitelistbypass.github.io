@@ -1,22 +1,17 @@
-## Mastadawn.wtf
+## Cola.wtf
 
-Hey im Mastadawn and I like programming
+i forked that from masta lol
 
 
-### Projects
+### Cola
 
 ```
-Prism:
-Prism is a script hub that supports roblox bedwars, bloxburg and more games soon!
+Cola:
+Cola is a script that is ripoff of prism created by masta lel
 Apply here!
-https://discord.gg/gqFpE9mXCP
+https://discord.gg/av2qnFrH
 ```
 
-### Contact
-
-```
-You can contact me via my discord: mastadawn#4135
-```
 
 ### Extra
 
